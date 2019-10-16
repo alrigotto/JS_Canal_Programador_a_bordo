@@ -28,13 +28,10 @@
 
 - **Objetos** - Parte 2
 
-    - Introdução ao destructuring: 00:12
-    - Destructuring nested: 04:58
-    - Destructuring com default value: 07:47
+    - Introdução ao destructuring.
+    - Destructuring nested.
+    - Destructuring com default value.
     - Destructuring como parâmetro de function.
     - Default value nas functions com destructuring.
-    - Object.keys e Objects.values: 13:08
-    - Iterando objetos com loop for: 14:51
-    - Iterando com for of: 18:05
-    - Iterando com for in: 18:53
-    - Método hasOwnProperty: 20:27
+    - Object.keys e Objects.values.
+    - Método hasOwnProperty.
