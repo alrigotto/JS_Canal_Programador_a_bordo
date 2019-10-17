@@ -49,4 +49,3 @@
     - Destructuring como parâmetro de function.
     - Default value nas functions com destructuring.
     - Object.keys e Objects.values.
-    - Método hasOwnProperty.

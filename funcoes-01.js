@@ -112,7 +112,7 @@ console.log(somaCallback(10, 3, function (valor) { // callback dentro da chamada
 //=========================================================================
 console.log();
 console.log('===================================================');
-console.log('Parâmetros Padrão');
+console.log('================ Parâmetros Padrão ================');
 console.log('===================================================');
 
 
