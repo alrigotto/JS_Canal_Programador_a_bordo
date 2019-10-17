@@ -3,7 +3,7 @@
 - Canal no Youtube: https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp
 
 
-- **Funções**:
+- ***Funções*** - Parte 1
     - ***Variável dentro de funções***.
     - Uso do ***\n*** para pular linha.
     - Com ***multiplos parâmetros***.
@@ -14,7 +14,21 @@
     - Parâmetros ***padrão***.
 
 
-- **Objetos** - Parte 1
+- ***Funções*** - Parte 2
+
+    - This.
+    - Operador new.
+    - Método call.
+    - Método apply.
+    - Método bind.
+    - Motivos para usar this.
+    - Arrow functions.
+    - Arrow functions sem return.
+    - Arrow functions com 1 parâmetro.
+    - Arrow functions e this.
+
+
+- ***Objetos*** - Parte 1
 
     - Criando e utilizando.
     - Adicionando novas propriedades.
@@ -26,7 +40,8 @@
     - Passando variável como chave.
     - Getters e Setters.
 
-- **Objetos** - Parte 2
+
+- ***Objetos*** - Parte 2
 
     - Introdução ao destructuring.
     - Destructuring nested.
