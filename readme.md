@@ -1,16 +1,17 @@
 # JavaScript - Canal Programador a bordo.
 
 - Canal no Youtube: https://www.youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp
+- Este repositório é para acompanhar os vídeos tutoriais de canal, testar códigos e colocar algumas observações.
 
 
 - ***Funções*** - Parte 1
     - ***Variável dentro de funções***.
     - Uso do ***\n*** para pular linha.
     - Com ***multiplos parâmetros***.
-    - **Auto-Executável**.
+    - ***Auto-Executável***.
     - Guardada dentro de uma variável.
-    - **Anônima**.
-    - **Callback**.
+    - ***Anônima***.
+    - ***Callback***.
     - Parâmetros ***padrão***.
 
 
@@ -49,3 +50,9 @@
     - Destructuring como parâmetro de function.
     - Default value nas functions com destructuring.
     - Object.keys e Objects.values.
+
+- ***Closure***
+
+    - Exemplo memorização de escopo.
+    - Criando função privada com closures.
+    - Evitando funções anônimas com closures.
